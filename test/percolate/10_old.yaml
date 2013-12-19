@@ -28,6 +28,4 @@
           doc:
             foo: bar
 
-  - is_true: ok
-
   - match: {'matches': ['test_percolator']}
